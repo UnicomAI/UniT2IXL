@@ -2,8 +2,9 @@
 # UniT2IXL
 
 <p align="center">
-         <a href="https://huggingface.co/UnicomAI/UniT2IXL">Hugging Face</a>&nbsp&nbsp </a> <a href="https://www.modelscope.cn/UnicomAI/UniT2IXL">ModelScope</a>&nbsp&nbsp </a> <a href=" https://www.wisemodel.cn/">WiseModel</a>&nbsp&nbsp </a>
+    <a href="https://huggingface.co/UnicomAI/UniT2IXL">Hugging Face</a>&nbsp;&nbsp;<a href="https://www.modelscope.cn/UnicomAI/UniT2IXL">ModelScope</a>&nbsp;&nbsp; <a href="https://www.wisemodel.cn/UnicomAI/UniT2IXL">WiseModel</a>
 </p>
+
 <figure>
   <img src="imgs/pic.png">
 </figure>
@@ -11,7 +12,7 @@
 <br>
 
 ## 📖 介绍
-UniT2IXL是由中国联通AI创新中心发布团队开发的一款基于潜在扩散的大规模文本到图像生成模型。该模型改进了SDXL的编码器，采用中文CLIP支持中文输入，并引入mt5架构处理长文本，提升中文语义理解。
+UniT2IXL是由中国联通AI创新中心团队开发的一款基于潜在扩散的大规模文本到图像生成模型。该模型改进了SDXL的编码器，采用中文CLIP实现对原生中文的支持，并引入mt5架构提升对长文本的理解能力。在国产昇腾AI基础软硬件平台实现了模型从微调训练到推理的一体化适配
 <p style="text-align: center;">
       <img src="imgs/unit2ixl.png" width="400"/>
 </p>
