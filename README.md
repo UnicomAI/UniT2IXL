@@ -130,6 +130,6 @@ accelerate launch --config_file $ACCELERATE_CONFIG_FILE  --main_process_port 123
 
 ## 💻UniT2IXL-NPU
 
-我们也提供了可以在NPU上运行UniT2I的LoRA训练与推理代码。更多详细信息，请参阅[unit2ixl-npu](uni2tixl-npu/README.md)。
+我们也提供了可以在NPU上运行UniT2I的LoRA训练与推理代码。更多详细信息，请参阅[unit2ixl-npu](https://github.com/UnicomAI/UniT2IXL/blob/master/unit2ixl-npu/README.md)。
 
 
