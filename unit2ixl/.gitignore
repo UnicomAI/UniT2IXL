@@ -1,0 +1,6 @@
+models/
+/models
+logs/
+__pycache__
+convert_yuanjingxl_diffusers.py
+train_lora_test.sh
