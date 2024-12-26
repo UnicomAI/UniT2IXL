@@ -104,4 +104,5 @@ UniT2IXL现支持LoRA微调，在昇腾800T上测试通过。
 
 	python infer_unit2ixl_pipeline.py
 	python infer_unit2ixl_pipeline_lora.py # 带lora的推理
+	ASCEND_RT_VISIBLE_DEVICES=1,2 python infer_unit2ixl_pipeline_distrib.py # 多卡并行推理，适用于多个prompt
 
