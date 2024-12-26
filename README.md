@@ -2,7 +2,7 @@
 # UniT2IXL
 
 <p align="center">
-    <a href="https://huggingface.co/UnicomAI/UniT2IXL">Hugging Face</a>&nbsp;&nbsp;<a href="https://www.modelscope.cn/UnicomAI/UniT2IXL">ModelScope</a>&nbsp;&nbsp; <a href="https://www.wisemodel.cn/UnicomAI/UniT2IXL">WiseModel</a>
+    <a href="https://huggingface.co/UnicomAI/UniT2IXL">Hugging Face</a>&nbsp;&nbsp;<a href="https://www.modelscope.cn/UnicomAI/UniT2IXL">ModelScope</a>&nbsp;&nbsp; <a href="https://www.wisemodel.cn/models/UnicomAI/UniT2IXL">WiseModel</a>
 </p>
 
 <figure>
